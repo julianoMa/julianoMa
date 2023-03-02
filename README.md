@@ -1,5 +1,37 @@
-### Hey 👋
+# 👋 JulianoM8103
 
-- 🔭 Je n'ai pas de projets en cours..
-- 🌱 J'apprend actuellement à utiliser React Native !
-- ⚡ Fun fact : J'aime bien me compliquer la vie pour rien ;-;
+## 1. Sommaire
+
+1. Sommaire
+2. Présentation
+3. Connaissances
+4. Projets
+
+## 2. Présentation
+
+Je m'appelle Juliano, je suis un collégien passioné par tout ce qui touche à l'informatique. Plus particulièrement dans le développement. 
+
+## 3. Connaissances
+
+Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellement entrain d'apprendre Javascript avec le framework React Native.
+
+## 4. Projets
+
+### 🌐 Projets Web
+
+  - [Juliano Portfolio](https://github.com/JulianoM8103/Juliano-Portfolio) : Mon portfolio.
+  - [Actus du Tarn](https://github.com/JulianoM8103/Actus-du-Tarn) : C'est un vieux projet de "journaux" du Tarn.
+  - [Potato Clicker](https://github.com/JulianoM8103/Potato-Clicker) : C'est un projet pour apprendre de nouvelles choses en Javascript fait en une vingtaine de minutes.
+  - [Calculatrice](https://github.com/JulianoM8103/Calculatrice) : C'est également un vieux projet pour apprendre de nouvelles choses en Javascript.
+  
+### 🐍 Projets Python
+
+  - [PFC](https://github.com/JulianoM8103/Pierre-Feuille-Ciseaux) : C'est un jeu de "pierre, feuille, ciseaux" contre l'ordinateur, ses choix sont totalement aléatoire.
+  - [CoinPy Tkinter](https://github.com/JulianoM8103/CoinPy-Tkinter) : C'est une interface graphique permettant d'obtenir les prix de plusieurs crypto-monnaies.
+  - [CoinPy](https://github.com/JulianoM8103/CoinPy) : C'est le même projet mais sans interface graphique.
+  - [Random Password Generator](https://github.com/JulianoM8103/Random-Password-Generator) : C'est une interface graphique permettant de générer un mot de passe aléatoire.
+  - [Chiffrement de mot de passe](https://github.com/JulianoM8103/Chiffrement-de-mot-de-passe) : C'est aussi une interface graphique permettant de chiffrer / déchiffrer un mot de passe.
+
+### 📱 Projets React Native
+
+  - [WeatherApp](https://github.com/JulianoM8103/WeatherApp) : C'est une application permettant d'obtenir la météo de presque toutes les villes du monde

@@ -13,7 +13,7 @@ Je m'appelle Juliano, je suis un collégien passioné par tout ce qui touche à 
 
 ## 3. Connaissances
 
-Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellement entrain d'apprendre Javascript avec le framework React Native.
+Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellement entrain d'apprendre Javascript.
 
 ## 4. Projets
 

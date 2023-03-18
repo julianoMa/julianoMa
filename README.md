@@ -31,6 +31,7 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
   - [CoinPy](https://github.com/JulianoM8103/CoinPy) : C'est le même projet mais sans interface graphique.
   - [Random Password Generator](https://github.com/JulianoM8103/Random-Password-Generator) : C'est une interface graphique permettant de générer un mot de passe aléatoire.
   - [Chiffrement de mot de passe](https://github.com/JulianoM8103/Chiffrement-de-mot-de-passe) : C'est aussi une interface graphique permettant de chiffrer / déchiffrer un mot de passe.
+  - [WeatherScript](https://github.com/JulianoM8103/WeatherScript-in-python) : C'est une interface graphique permettant de récupérer les données météo de n'importe quelle ville du monde.
 
 ### 📱 Projets React Native
 

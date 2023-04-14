@@ -6,6 +6,7 @@
 2. Présentation
 3. Connaissances
 4. Projets
+5. Et maintenant ?
 
 ## 2. Présentation
 
@@ -43,3 +44,8 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
 ### ⬜ Projets 3D
 
   - [Cache pour jardinière](https://github.com/JulianoM8103/Cache-pour-jardiniere-3D)
+
+## Et maintenant ?
+
+Et bien maintenant je réfléchis à : 
+  - Faire un site web permettant d'obtenir la météo d'une ville en reprenant le code de "WeatherApp".

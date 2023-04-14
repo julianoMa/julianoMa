@@ -26,6 +26,8 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
   
 ### 🐍 Projets Python
 
+  - [Jeu de pendu](https://github.com/JulianoM8103/Jeu-de-pendu) : Comme indiquer dans le nom, c'est un jeu de pendu.
+  - [Gestion Pharmacie](https://github.com/JulianoM8103/Gestion-Pharmacie-PY) : Projet permettant de "gérer" une pharmacie **fictive**.
   - [PFC](https://github.com/JulianoM8103/Pierre-Feuille-Ciseaux) : C'est un jeu de "pierre, feuille, ciseaux" contre l'ordinateur, ses choix sont totalement aléatoire.
   - [CoinPy Tkinter](https://github.com/JulianoM8103/CoinPy-Tkinter) : C'est une interface graphique permettant d'obtenir les prix de plusieurs crypto-monnaies.
   - [CoinPy](https://github.com/JulianoM8103/CoinPy) : C'est le même projet mais sans interface graphique.
@@ -37,3 +39,7 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
 ### 📱 Projets React Native
 
   - [WeatherApp](https://github.com/JulianoM8103/WeatherApp) : C'est une application permettant d'obtenir la météo de presque toutes les villes du monde
+
+### ⬜ Projets 3D
+
+  - [Cache pour jardinière](https://github.com/JulianoM8103/Cache-pour-jardiniere-3D)

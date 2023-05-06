@@ -31,6 +31,7 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
   - [Gestion Pharmacie](https://github.com/JulianoM8103/Gestion-Pharmacie-PY) : Projet permettant de "gérer" une pharmacie **fictive**.
   - [PFC](https://github.com/JulianoM8103/Pierre-Feuille-Ciseaux) : C'est un jeu de "pierre, feuille, ciseaux" contre l'ordinateur, ses choix sont totalement aléatoire.
   - [CoinPy Tkinter](https://github.com/JulianoM8103/CoinPy-Tkinter) : C'est une interface graphique permettant d'obtenir les prix de plusieurs crypto-monnaies.
+  - [Limiteur de temps d'écran](https://github.com/JulianoM8103/limiteur-temps-ecran-python/tree/main) : C'est un limiteur de temps d'écran fait en python avec des interfaces graphiques
   - [CoinPy](https://github.com/JulianoM8103/CoinPy) : C'est le même projet mais sans interface graphique.
   - [Random Password Generator](https://github.com/JulianoM8103/Random-Password-Generator) : C'est une interface graphique permettant de générer un mot de passe aléatoire.
   - [Chiffrement de mot de passe](https://github.com/JulianoM8103/Chiffrement-de-mot-de-passe) : C'est aussi une interface graphique permettant de chiffrer / déchiffrer un mot de passe.
@@ -49,3 +50,4 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
 
 Et bien maintenant je réfléchis à : 
   - Faire un site web permettant d'obtenir la météo d'une ville en reprenant le code de "WeatherApp".
+  - M'intéresser à Electron JS

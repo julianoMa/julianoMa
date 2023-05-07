@@ -47,7 +47,9 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
   - [Cache pour jardinière](https://github.com/JulianoM8103/Cache-pour-jardiniere-3D)
 
 ## Et maintenant ?
+Et bien maintenant je suis entrain de :
+  - Travailler sur la nouvelle mise à jour pour mon [limiteur de temps d'écran](https://github.com/JulianoM8103/limiteur-temps-ecran-python) fait en Python
 
-Et bien maintenant je réfléchis à : 
+Et je réfléchis à : 
   - Faire un site web permettant d'obtenir la météo d'une ville en reprenant le code de "WeatherApp".
   - M'intéresser à Electron JS

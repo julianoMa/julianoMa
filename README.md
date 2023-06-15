@@ -20,7 +20,6 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
 
 ### 🌐 Projets Web
 
-  - [Juliano Portfolio](https://github.com/JulianoM8103/Juliano-Portfolio) : Mon portfolio.
   - [Actus du Tarn](https://github.com/JulianoM8103/Actus-du-Tarn) : C'est un vieux projet de "journaux" du Tarn.
   - [Potato Clicker](https://github.com/JulianoM8103/Potato-Clicker) : C'est un projet pour apprendre de nouvelles choses en Javascript fait en une vingtaine de minutes.
   - [Calculatrice](https://github.com/JulianoM8103/Calculatrice) : C'est également un vieux projet pour apprendre de nouvelles choses en Javascript.
@@ -47,9 +46,4 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
   - [Cache pour jardinière](https://github.com/JulianoM8103/Cache-pour-jardiniere-3D)
 
 ## Et maintenant ?
-Et bien maintenant je suis entrain de :
-  - Travailler sur la nouvelle mise à jour pour mon [limiteur de temps d'écran](https://github.com/JulianoM8103/limiteur-temps-ecran-python) fait en Python
-
-Et je réfléchis à : 
-  - Faire un site web permettant d'obtenir la météo d'une ville en reprenant le code de "WeatherApp".
-  - M'intéresser à Electron JS
+Et bien maintenant je n'ai pas d'objectifs particuliers..

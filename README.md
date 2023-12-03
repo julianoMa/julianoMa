@@ -14,7 +14,7 @@ Je m'appelle Juliano, je suis un collégien passioné par tout ce qui touche à 
 
 ## 3. Connaissances
 
-Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellement entrain d'apprendre Javascript.
+Je connais les langages de programmation HTML, CSS, Javascript et Python.
 
 ## 4. Projets
 
@@ -28,6 +28,7 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
 
   - [Jeu de pendu](https://github.com/JulianoM8103/Jeu-de-pendu) : Comme indiquer dans le nom, c'est un jeu de pendu.
   - [Gestion Pharmacie](https://github.com/JulianoM8103/Gestion-Pharmacie-PY) : Projet permettant de "gérer" une pharmacie **fictive**.
+  - [Client Ecoledirecte](https://github.com/Thefern3750/ecoledirecte-terminal-client) : Un client pour utiliser EcoleDirecte dans son terminal !
   - [PFC](https://github.com/JulianoM8103/Pierre-Feuille-Ciseaux) : C'est un jeu de "pierre, feuille, ciseaux" contre l'ordinateur, ses choix sont totalement aléatoire.
   - [CoinPy Tkinter](https://github.com/JulianoM8103/CoinPy-Tkinter) : C'est une interface graphique permettant d'obtenir les prix de plusieurs crypto-monnaies.
   - [Limiteur de temps d'écran](https://github.com/JulianoM8103/limiteur-temps-ecran-python/tree/main) : C'est un limiteur de temps d'écran fait en python avec des interfaces graphiques
@@ -44,6 +45,7 @@ Je maitrise les langages de programmation HTML, CSS et Python. Je suis actuellem
 ### ⬜ Projets 3D
 
   - [Cache pour jardinière](https://github.com/JulianoM8103/Cache-pour-jardiniere-3D)
+  - [Camion](https://www.thingiverse.com/thing:6346471)
 
 ## Et maintenant ?
 Et bien maintenant je n'ai pas d'objectifs particuliers..

@@ -1,51 +1,46 @@
-# 👋 JulianoM8103
-
-## 1. Sommaire
-
-1. Sommaire
-2. Présentation
-3. Connaissances
-4. Projets
-5. Et maintenant ?
-
-## 2. Présentation
-
-Je m'appelle Juliano, je suis un collégien passioné par tout ce qui touche à l'informatique. Plus particulièrement dans le développement. 
-
-## 3. Connaissances
-
-Je connais les langages de programmation HTML, CSS, Javascript et Python.
-
-## 4. Projets
-
-### 🌐 Projets Web
-
-  - [Actus du Tarn](https://github.com/JulianoM8103/Actus-du-Tarn) : C'est un vieux projet de "journaux" du Tarn.
-  - [Potato Clicker](https://github.com/JulianoM8103/Potato-Clicker) : C'est un projet pour apprendre de nouvelles choses en Javascript fait en une vingtaine de minutes.
-  - [Calculatrice](https://github.com/JulianoM8103/Calculatrice) : C'est également un vieux projet pour apprendre de nouvelles choses en Javascript.
+---
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl5cWxxamtlMTRhYnlob25jcTQwcjN3Mjg5ZnY3enNwa282OXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBELA6Mb1TeeOc/giphy.gif">
   
-### 🐍 Projets Python
+  <div id="badges">
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/> 
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  </div>
 
-  - [Jeu de pendu](https://github.com/JulianoM8103/Jeu-de-pendu) : Comme indiquer dans le nom, c'est un jeu de pendu.
-  - [Gestion Pharmacie](https://github.com/JulianoM8103/Gestion-Pharmacie-PY) : Projet permettant de "gérer" une pharmacie **fictive**.
-  - [Client Ecoledirecte](https://github.com/Thefern3750/ecoledirecte-terminal-client) : Un client pour utiliser EcoleDirecte dans son terminal !
-  - [PFC](https://github.com/JulianoM8103/Pierre-Feuille-Ciseaux) : C'est un jeu de "pierre, feuille, ciseaux" contre l'ordinateur, ses choix sont totalement aléatoire.
-  - [CoinPy Tkinter](https://github.com/JulianoM8103/CoinPy-Tkinter) : C'est une interface graphique permettant d'obtenir les prix de plusieurs crypto-monnaies.
-  - [Limiteur de temps d'écran](https://github.com/JulianoM8103/limiteur-temps-ecran-python/tree/main) : C'est un limiteur de temps d'écran fait en python avec des interfaces graphiques
-  - [CoinPy](https://github.com/JulianoM8103/CoinPy) : C'est le même projet mais sans interface graphique.
-  - [Random Password Generator](https://github.com/JulianoM8103/Random-Password-Generator) : C'est une interface graphique permettant de générer un mot de passe aléatoire.
-  - [Chiffrement de mot de passe](https://github.com/JulianoM8103/Chiffrement-de-mot-de-passe) : C'est aussi une interface graphique permettant de chiffrer / déchiffrer un mot de passe.
-  - [WeatherScript](https://github.com/JulianoM8103/WeatherScript-in-python) : C'est une interface graphique permettant de récupérer les données météo de n'importe quelle ville du monde.
-  - [Todo-List](https://github.com/JulianoM8103/Todo-list-python) : Une interface graphique faisant office de "todo-list" pour ne plus oublier vos tâches !
+<img src="https://komarev.com/ghpvc/?username=julianoMa&style=flat-square&color=blue" alt=""/>
+  
+<h1> 
+Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> 
+</div>
 
-### 📱 Projets React Native
+### :man_technologist: About Me :
+I am a Student Developper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+- :telescope: I’m working as a Student Web Dev.
 
-  - [WeatherApp](https://github.com/JulianoM8103/WeatherApp) : C'est une application permettant d'obtenir la météo de presque toutes les villes du monde
+- :seedling: Exploring some ways to change the world.
 
-### ⬜ Projets 3D
+- :zap: In my free time, I dev some useless programs or websites.
+  
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="LUA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-  - [Cache pour jardinière](https://github.com/JulianoM8103/Cache-pour-jardiniere-3D)
-  - [Camion](https://www.thingiverse.com/thing:6346471)
-
-## Et maintenant ?
-Et bien maintenant je n'ai pas d'objectifs particuliers..
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=julianoMa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoMa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

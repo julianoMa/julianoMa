@@ -20,9 +20,9 @@ Hello World ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.g
 
 ### :man_technologist: About Me :
 I am a Student Developper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
-- :telescope: I’m working as a Student Web Dev.
+- :telescope: I’m working as a Student Dev & at High School.
 
-- :seedling: Exploring some ways to change the world.
+- :seedling: Hacking the system, one line at a time.
 
 - :zap: In my free time, I dev some useless programs or websites.
   

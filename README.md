@@ -3,10 +3,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl5cWxxamtlMTRhYnlob25jcTQwcjN3Mjg5ZnY3enNwa282OXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBELA6Mb1TeeOc/giphy.gif">
   
   <div id="badges">
-  <a href="mailto:">
+  <a href="mailto:juliano.martins81000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/> 
   </a>
-  <a href="#">
+  <a href="[#](https://juliano-martins.netlify.app/)">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>

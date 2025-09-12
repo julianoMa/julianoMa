@@ -25,6 +25,7 @@ Status: ACTIVE
   "affiliation": "Independent",
   "threat_level": "UNKNOWN",
   "skills": [
+     "Python",
     "HTML / CSS",
     "Javascript",
     "PHP",

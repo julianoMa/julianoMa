@@ -29,13 +29,14 @@ Status: ACTIVE
     "HTML / CSS",
     "Javascript",
     "PHP",
-    "SQL"
+    "SQL",
+    "LUA"
   ]
 }
 ```
 
 # > Current_operations
 
-- 🌿 Young High School student, and web dev.
+- 🌿 Young High School student, and dev.
 - 🕵️ Searching new ways to learn.
-- 💻 Developing even more websites.
+- 💻 Developing even more websites and cool projects !

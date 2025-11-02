@@ -2,7 +2,7 @@
 
 ### High school student passionate about dev
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julianoMa&label=Profile views&color=0e75b6&style=flat" alt="julianoMa" /> </p>
+<img src="https://avatars.githubusercontent.com/u/87315533?s=400&u=5ebc06264adbe7bddac36fadc825b8c43f609fdd&v=4">
 
 - 🔭 I'm currently working on **BelotePlus**
 

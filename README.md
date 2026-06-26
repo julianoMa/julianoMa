@@ -33,7 +33,7 @@ Je réalise pas mal de petits projets, qui marchent ou non.
 ## 🌟 Mes projets en cours
 | Project | Description | Status |
 |----------|--------------|---------|
-| 🃏 **BelotePlus** | Gestionnaire de tournois de belote | 🧠 En cours |
+| 🃏 **28 Years** | Serveur Garry's Mod | 🧠 En cours |
 
 ---
 
